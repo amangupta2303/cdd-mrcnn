@@ -11,7 +11,6 @@ backcall==0.2.0
 beautifulsoup4==4.11.2
 bleach==6.0.0
 cachetools==5.3.0
-certifi @ file:///croot/certifi_1671487769961/work/certifi
 cffi==1.15.1
 charset-normalizer==3.0.1
 cycler==0.11.0
@@ -60,7 +59,6 @@ matplotlib==3.5.3
 matplotlib-inline==0.1.6
 mistune==2.0.4
 mkl-fft==1.3.1
-mkl-random @ file:///tmp/build/80754af9/mkl_random_1626179032232/work
 mkl-service==2.4.0
 mock==5.0.1
 nbclassic==0.5.1
@@ -108,7 +106,6 @@ scikit-image==0.16.2
 scipy==1.7.3
 Send2Trash==1.8.0
 shapely==2.0.1
-six @ file:///tmp/build/80754af9/six_1644875935023/work
 sniffio==1.3.0
 snowballstemmer==2.2.0
 soupsieve==2.3.2.post1
